@@ -1,0 +1,4 @@
+Asia-Pacific	Avg: 205	Requests: 2	Errors: 0
+EU-West	Avg: 152.5	Requests: 2	Errors: 1
+US-East	Avg: 108.33	Requests: 3	Errors: 0
+US-West	Avg: 110	Requests: 1	Errors: 0

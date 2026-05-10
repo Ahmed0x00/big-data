@@ -1,0 +1,3 @@
+C001,Mathematics,Prof. Smith
+C002,Physics,Prof. Brown
+C003,Computer Science,Dr. Miller

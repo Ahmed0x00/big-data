@@ -1,0 +1,5 @@
+Computer Science, Dr. Miller, Eve	
+Mathematics, Prof. Smith, Alice	
+Mathematics, Prof. Smith, Charlie	
+Physics, Prof. Brown, Bob	
+UNKNOWN_COURSE, UNKNOWN_INSTRUCTOR, Diana	
